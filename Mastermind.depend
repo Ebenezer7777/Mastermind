@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1635934833 source:d:\users\ensim\documents\codeblock\mastermind\couleur.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1635934929 source:d:\users\ensim\documents\codeblock\mastermind\hasard.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635935569 d:\users\ensim\documents\codeblock\mastermind\conio.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1635937430 source:d:\users\ensim\documents\codeblock\mastermind\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635934929 source:d:\users\ensim\documents\codeblock\mastermind\verification.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635934929 source:d:\users\ensim\documents\codeblock\mastermind\init_resultat.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635934929 source:d:\users\ensim\documents\codeblock\mastermind\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635938122 source:d:\users\ensim\documents\codeblock\mastermind\mettre_les_couleurs.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635935579 source:d:\users\ensim\documents\codeblock\mastermind\init_code.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635935569 source:d:\users\ensim\documents\codeblock\mastermind\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635631993 d:\users\ensim\documents\codeblock\mastermind\fonction.h
+	<windows.h>
+	<stdio.h>
+
+1635631791 d:\users\ensim\documents\codeblock\mastermind\mastermind.h
+
+1635934897 source:d:\users\ensim\documents\codeblock\mastermind\aide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
+1635934929 source:d:\users\ensim\documents\codeblock\mastermind\affichageinit.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"conio.h"
+
